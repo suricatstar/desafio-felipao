@@ -25,7 +25,7 @@ function levelHero(name='player',level=0) {
         ranking = 'Radiante'
     }
 
-    return console.log(`O Héroi de nome ${name} e de level ${level} está no ranking ${ranking}`)
+    return console.log(`O Herói de nome ${name} e de level ${level} está no ranking ${ranking}`)
 }
 
 levelHero('besta', 9999)
